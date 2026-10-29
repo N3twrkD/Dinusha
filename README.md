@@ -1,4 +1,4 @@
-# Hi, I'm Dinusha Jayalath 👋
+# Hi👋
 
 ### Network Engineer | Enterprise Networking | AWS | Cybersecurity
 
@@ -45,8 +45,6 @@ Projects exploring Docker, infrastructure automation, and CI/CD fundamentals.
 
 I'm always interested in networking, cloud infrastructure, cybersecurity, and automation projects.
 
-- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/)
-- 📧 Email: dinusha.sandeepa@gmail.com
 
 ---
 
