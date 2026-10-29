@@ -1,58 +1,53 @@
-<h1 align="center">Hi, I'm Dinusha 👋</h1>
-<p align="center">
-  🌍 Based in the UK &bull; 🛠️ Aspiring DevOps Engineer &bull; ☁️ AWS Certified Sloutions Architect
-</p>
+# Hi, I'm Dinusha Jayalath 👋
+
+### Network Engineer | Enterprise Networking | AWS | Cybersecurity
+
+I'm a Network Engineer with 7+ years of experience in telecommunications, network operations, troubleshooting, and performance optimisation.
+
+I'm passionate about enterprise networking, cloud infrastructure, network automation, and cybersecurity. I'm currently pursuing an MSc in Cyber Security at the University of Staffordshire while continuing to develop my skills in network engineering and cloud technologies.
+
+## 🚀 Technical Skills
+
+- **Networking:** TCP/IP, OSPF, EIGRP, BGP, VLANs, STP, EtherChannel, HSRP, ACLs, NAT, VPNs
+- **Network Security:** Network segmentation, access control, firewall concepts, AAA
+- **Cloud:** AWS, VPC, EC2, IAM, Security Groups, Route 53
+- **Automation & IaC:** Python, Terraform, Ansible, Jenkins
+- **Platforms & Tools:** Cisco IOS, GNS3, EVE-NG, Linux, Docker, Git
+
+## 🛠️ Featured Projects
+
+### 🌐 Enterprise Network Engineering
+Practical network configuration and troubleshooting, including dynamic routing, Layer 2 switching, redundancy, network segmentation, and VPN technologies.
+
+### ☁️ AWS Infrastructure with Terraform
+Infrastructure-as-Code projects exploring AWS resource provisioning, EC2 instances, security groups, and cloud networking.
+
+### 🐍 Network Automation with Python
+Python-based RF scanner automation, scheduled execution, automated reporting, and image logging.
+
+### 🐳 Containerisation & DevOps
+Projects exploring Docker, infrastructure automation, and CI/CD fundamentals.
+
+## 🎓 Certifications
+
+- Cisco Certified Specialist – Enterprise Core (350-401 ENCOR)
+- AWS Certified Solutions Architect – Associate
+- Fortinet Certified in Cybersecurity – NSE 1 & NSE 2
+
+## 📚 Currently Learning
+
+- MSc Cyber Security
+- Enterprise network engineering and troubleshooting
+- Cloud security and AWS infrastructure
+- Infrastructure as Code and network automation
+
+## 🤝 Let's Connect
+
+I'm always interested in networking, cloud infrastructure, cybersecurity, and automation projects.
+
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/)
+- 📧 Email: dinusha.sandeepa@gmail.com
 
 ---
 
-### 🚀 About Me
-
-I'm a former telecom engineer transitioning into DevOps, with a strong focus on cloud infrastructure, automation, and CI/CD pipelines. I'm currently building my portfolio with real-world DevOps projects while preparing for the CKA exam.
-
-- 🔭 I’m currently working on: **Kubernetes deployments with Terraform on AWS**
-- 🎯 2025 Goal: **Land my first DevOps role in the UK**
-- 📚 Currently learning: **CKA, CI with Jenkins, Monitoring with Prometheus/Grafana, Docker, Ansible, Maven**
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/dinusha-jayalath-5b21a31a0/)
-
----
-
-### 🧰 Tech Stack
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-
----
-
-### 📂 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [CI/CD Pipeline](https://github.com/dinusha19911/CICD_Pipelines.git) | Automated deployment pipeline using GitHub Actions + Docker + AWS | CI/CD, Docker, AWS |
-| [K8s Infra with Terraform](TBC) | Infrastructure as Code for EKS clusters | Terraform, AWS, Kubernetes |
-| [Monitoring Stack](TBC) | Full monitoring setup with Prometheus & Grafana | Monitoring, Linux, Docker |
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dinusha19911&show_icons=true&theme=github_dark" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinusha19911&layout=compact&theme=github_dark" width="335"/>
-</p>
-
----
-
-### 🙋‍♂️ Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/dinusha-jayalath-5b21a31a0/)
-- [Twitter](https://x.com/DinushaJayalath)
-- Email: dinusha.sandeepa@gmail.com
-
----
-
-_“Infrastructure as Code is the future — and I'm building it one commit at a time.”_
+⭐ Feel free to explore my repositories and follow my journey in network engineering and cybersecurity.
